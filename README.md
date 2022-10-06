@@ -11,4 +11,4 @@ Data set can be found [here](https://data.world/makeovermonday/2022w40).
 
 
 ## Updated Visualization
-![MondayMakeover](https://user-images.githubusercontent.com/18369971/194234403-8be5d7a9-8f58-4704-8f3e-1e5e42dd5650.png)
+![MondayMakeover](https://user-images.githubusercontent.com/18369971/194234903-a2f73c70-a838-4e11-9893-9c514298c257.png)
